@@ -40,6 +40,6 @@ before_script:
 notifications:
   email:
     recipients:
-    - myemail@address.com
+    - heszler.andras@gmail.com
     on_success: always
     on_failure: always
